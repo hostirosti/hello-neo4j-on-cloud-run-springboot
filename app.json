@@ -1,4 +1,7 @@
 {
+  "options": {
+    "memory": "1Gi"
+  },
   "hooks": {
     "precreate": {
       "commands": [
